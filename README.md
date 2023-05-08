@@ -1,6 +1,7 @@
 # bash-scripts
 Simple bash scipts 
 
+# Feel free to improve scripts and add your own
 
 ### **create-react-file-structure** 
        script create starter file structure for react application
