@@ -10,3 +10,4 @@ Simple bash scipts
        -f {argument} create structure in existing directory or create new one
 #### example: 
        create-react-file-structure -x -f my-app 
+TODO: fixes
